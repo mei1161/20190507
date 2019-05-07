@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3ED8D604-4EDB-473A-9BD9-75186E1704CA}</ProjectGuid>
+    <ProjectGuid>{818127B3-8D06-4476-AECB-286886D26CC7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My20190507授業</RootNamespace>
+    <RootNamespace>tuple</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>Range based for</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
